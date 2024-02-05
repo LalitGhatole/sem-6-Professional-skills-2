@@ -1,0 +1,232 @@
+datasetName,about,link,categoryName,cloud,vintage,The think tank of China’s People’s Liberation Army Rocket Force recently recruited 13 Chinese technicians,sepal.length,sepal.width,petal.length,petal.width,variety
+Microbiome Project,American Gut (Microbiome Project),https://github.com/biocore/American-Gut,Biology,GitHub,,,,,,,
+GloBI,Global Biotic Interactions (GloBI),https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data,Biology,GitHub,,,,,,,
+Global Climate,Global Climate Data Since 1929,http://en.tutiempo.net/climate,Climate/Weather,,1929.0,,,,,,
+CommonCraw 2012,3.5B Web Pages from CommonCraw 2012,http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us,Computer Networks,,2012.0,,,,,,
+Indiana Webclicks,53.5B Web clicks of 100K users in Indiana Univ.,http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/,Computer Networks,,,,,,,,
+Criteo click-through,Criteo click-through data,http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/,Computer Networks,,,,,,,,
+ICWSM 2009,ICWSM Data Challenge (since 2009),http://icwsm.cs.umbc.edu/,Data Challenges,,2009.0,,,,,,
+KDD Cup,KDD Cup by Tencent 2012,http://www.kddcup2012.org/,Data Challenges,,2012.0,,,,,,
+Localytics Data,Localytics Data Visualization Challenge,https://github.com/localytics/data-viz-challenge,Data Challenges,GitHub,,,,,,,
+Yelp Dataset,Yelp Dataset Challenge,http://www.yelp.com/dataset_challenge,Data Challenges,,,,,,,,
+Bruteforce Database,Bruteforce Database,https://github.com/duyetdev/bruteforce-database,Data Challenges,GitHub,,,,,,,
+Countries,List of all countries in all languages,https://github.com/umpirsky/country-list,GIS,GitHub,,,,,,,
+TwoFishes,TwoFishes - Foursquare's coarse geocoder,https://github.com/foursquare/twofishes,GIS,GitHub,,,,,,,
+World countries,World countries in multiple formats,https://github.com/mledoze/countries,GIS,GitHub,,,,,,,
+Cities and countries,A list of cities and countries contributed by community,https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst,Government,GitHub,,,,,,,
+Ebola cases,Number of Ebola Cases and Deaths in Affected Countries (2014),https://data.hdx.rwlabs.org/dataset/ebola-cases-2014,Healthcare,,2014.0,,,,,,
+eBay Online,eBay Online Auctions (2012),http://www.modelingonlineauctions.com/datasets,Machine Learning,,2012.0,,,,,,
+New Yorker Captions,New Yorker caption contest ratings,https://github.com/nextml/caption-contest-data,Machine Learning,GitHub,,,,,,,
+Cooper-Hewitt's Collection,Cooper-Hewitt's Collection Database,https://github.com/cooperhewitt/collection,Museums,GitHub,,,,,,,
+Minneapolis Institute,Minneapolis Institute of Arts metadata,https://github.com/artsmia/collection,Museums,GitHub,,,,,,,
+Tate Collection,Tate Collection metadata,https://github.com/tategallery/collection,Museums,GitHub,,,,,,,
+Google 5gram,"Google Web 5gram (1TB, 2006)",https://catalog.ldc.upenn.edu/LDC2006T13,Natural Language,,2006.0,,,,,,
+"Arabic, 30K articles","SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles)",https://github.com/ParallelMazen/SaudiNewsNet,Natural Language,GitHub,,,,,,,
+USENET postings,USENET postings corpus of 2005~2011,http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html,Natural Language,,2005.0,,,,,,
+Datahub.io,Datahub.io,https://datahub.io/dataset,Search Engines,,,,,,,,
+Twitter Scrape CIKM,Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape,https://archive.org/details/twitter_cikm_2010,Social Networks,,2009.0,,,,,,
+Facebook Data,Facebook Data Scrape (2005),https://archive.org/details/oxford-2005-facebook-matrix,Social Networks,,2005.0,,,,,,
+LAW graphs,Facebook Social Networks from LAW (since 2007),http://law.di.unimi.it/datasets.php,Social Networks,,2007.0,,,,,,
+Foursquare from,Foursquare from UMN/Sarwat (2013),https://archive.org/details/201309_foursquare_dataset_umn,Social Networks,,2013.0,,,,,,
+Skytrax' Air,Skytrax' Air Travel Reviews Dataset,https://github.com/quankiquanki/skytrax-reviews-dataset,Social Networks,GitHub,,,,,,,
+Twitter Scrape,Twitter Scrape Calufa May 2011,http://archive.org/details/2011-05-calufa-twitter-sql,Social Networks,,2011.0,,,,,,
+Youtube Video,"Youtube Video Social Graph in 2007,2008",http://netsg.cs.sfu.ca/youtubedata/,Social Networks,,2007.0,,,,,,
+FBI Hate Crime 2013,FBI Hate Crime 2013 - aggregated data,https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013,Social Sciences,GitHub,2013.0,,,,,,
+GSS,General Social Survey (GSS) since 1972,http://gss.norc.org,Social Sciences,,1972.0,,,,,,
+Texas Inmates,Texas Inmates Executed Since 1984,http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html,Social Sciences,,1984.0,,,,,,
+Formula 1,"Ergast Formula 1, from 1950 up to date (API)",http://ergast.com/mrd/db,Sports,,1950.0,,,,,,
+Pinhooker: Thoroughbred,Pinhooker: Thoroughbred Bloodstock Sale Data,https://github.com/phillc73/pinhooker,Sports,GitHub,,,,,,,
+Airlines OD,Airlines OD Data 1987-2008,http://stat-computing.org/dataexpo/2009/the-data.html,Transportation,,2008.0,,,,,,
+BSS,Bike Share Systems (BSS) collection,https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems,Transportation,GitHub,,,,,,,
+NYC Taxi,NYC Taxi Trip Data 2009-,http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml,Transportation,,2009.0,,,,,,
+FOIA/FOILed,NYC Taxi Trip Data 2013 (FOIA/FOILed),https://archive.org/details/nycTaxiTripData2013,Transportation,,2013.0,,,,,,
+NYC Uber,NYC Uber trip data April 2014 to September 2014,https://github.com/fivethirtyeight/uber-tlc-foil-response,Transportation,GitHub,2014.0,,,,,,
+Open Traffic,Open Traffic collection,https://github.com/graphhopper/open-traffic-collection,Transportation,GitHub,,,,,,,
+Plane Crash,"Plane Crash Database, since 1920",http://www.planecrashinfo.com/database.htm,Transportation,,1920.0,,,,,,
+U.S. Domestic,U.S. Domestic Flights 1990 to 2009,http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a,Transportation,,2009.0,,,,,,
+U.S. Freight,U.S. Freight Analysis Framework since 2007,http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm,Transportation,,2007.0,,,,,,
+Data Packaged,Data Packaged Core Datasets,https://github.com/datasets/,Complementary Collections,GitHub,,,,,,,
+USDA PLANTS,U.S. Department of Agriculture's PLANTS Database,http://www.plants.usda.gov/dl_all.html,Agriculture,,,,,,,,
+ClueWeb09,ClueWeb09 - 1B web pages,http://lemurproject.org/clueweb09/,Computer Networks,,2009.0,,,,,,
+ClueWeb12,ClueWeb12 - 733M web pages,http://lemurproject.org/clueweb12/,Computer Networks,,2012.0,,,,,,
+DEFRA Projects,DEFRA Science and Research Projects data,http://randd.defra.gov.uk/,Energy,,,,,,,,
+UK-DALE,UK Domestic Appliance-Level Electricity (UK-DALE) dataset,http://www.doc.ic.ac.uk/~dk3810/data/,Energy,,2016.0,,,,,,
+Landsat 8,Landsat 8 on AWS,https://aws.amazon.com/public-data-sets/landsat/,GIS,Amazon,,,,,,,
+Reverse Geocode,Simple but fast reverse geocoding up to city granularitiy level,https://github.com/kno10/reversegeocode,GIS,GitHub,,,,,,,
+Faces Database,10k US Adult Faces Database,http://wilmabainbridge.com/facememorability2.html,Image Processing,,,,,,,,
+ClueWeb09 FACC,ClueWeb09 FACC,http://lemurproject.org/clueweb09/FACC1/,Natural Language,,2009.0,,,,,,
+ClueWeb12 FACC,ClueWeb12 FACC,http://lemurproject.org/clueweb12/FACC1/,Natural Language,,2012.0,,,,,,
+Google Ngrams,Google Books Ngrams (2.2TB),https://aws.amazon.com/datasets/google-books-ngrams/,Natural Language,Amazon,,,,,,,
+EDRM Enron,"EDRM Enron EMail of 151 users, hosted on S3",https://aws.amazon.com/datasets/enron-email-data/,Social Networks,Amazon,,,,,,,
+GetGlue,GetGlue - users rating TV shows,http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz,Social Networks,,,,,,,,
+Twitter RepLab,Twitter Data for Online Reputation Management,http://nlp.uned.es/replab2013/,Social Networks,,2013.0,,,,,,
+,,,,,," from private companies, PLA Daily reported on Saturday.",,,,,
+,,,,,,Zhang Hao and 12 other science and technology experts received letters of appointment at the founding ceremony of,,,,,
+,,,,,,"the PLA Rocket Force national defense science and technology experts panel, according to a report published by the",,,,,
+,,,,,,PLA Daily on Saturday.,,,,,
+,,,,,,"Honored as “rocket force science and technology experts,” Zhang and his fellow experts from private companies will",,,,,
+,,,,,,"serve as members of the PLA Rocket Force think tank, which will conduct research into fields like overall design of",,,,,
+,,,,,,"the missiles, missile launching and network system technology for five years.",,,,,
+,,,,,,"The experts will enjoy the same treatment as their counterparts from State-owned firms, the report said.",,,,,
+,,,,,,"The PLA Daily said that this marks a new development in deepening military-civilian integration in China, which",,,,,
+,,,,,,could make science and technology innovation better contribute to the enhancement of the force’s combat capabilities.,,,,,
+,,,,,,,5.1,3.5,1.4,0.2,Setosa
+,,,,,,,4.9,3.0,1.4,0.2,Setosa
+,,,,,,,4.7,3.2,1.3,0.2,Setosa
+,,,,,,,4.6,3.1,1.5,0.2,Setosa
+,,,,,,,5.0,3.6,1.4,0.2,Setosa
+,,,,,,,5.4,3.9,1.7,0.4,Setosa
+,,,,,,,4.6,3.4,1.4,0.3,Setosa
+,,,,,,,5.0,3.4,1.5,0.2,Setosa
+,,,,,,,4.4,2.9,1.4,0.2,Setosa
+,,,,,,,4.9,3.1,1.5,0.1,Setosa
+,,,,,,,5.4,3.7,1.5,0.2,Setosa
+,,,,,,,4.8,3.4,1.6,0.2,Setosa
+,,,,,,,4.8,3.0,1.4,0.1,Setosa
+,,,,,,,4.3,3.0,1.1,0.1,Setosa
+,,,,,,,5.8,4.0,1.2,0.2,Setosa
+,,,,,,,5.7,4.4,1.5,0.4,Setosa
+,,,,,,,5.4,3.9,1.3,0.4,Setosa
+,,,,,,,5.1,3.5,1.4,0.3,Setosa
+,,,,,,,5.7,3.8,1.7,0.3,Setosa
+,,,,,,,5.1,3.8,1.5,0.3,Setosa
+,,,,,,,5.4,3.4,1.7,0.2,Setosa
+,,,,,,,5.1,3.7,1.5,0.4,Setosa
+,,,,,,,4.6,3.6,1.0,0.2,Setosa
+,,,,,,,5.1,3.3,1.7,0.5,Setosa
+,,,,,,,4.8,3.4,1.9,0.2,Setosa
+,,,,,,,5.0,3.0,1.6,0.2,Setosa
+,,,,,,,5.0,3.4,1.6,0.4,Setosa
+,,,,,,,5.2,3.5,1.5,0.2,Setosa
+,,,,,,,5.2,3.4,1.4,0.2,Setosa
+,,,,,,,4.7,3.2,1.6,0.2,Setosa
+,,,,,,,4.8,3.1,1.6,0.2,Setosa
+,,,,,,,5.4,3.4,1.5,0.4,Setosa
+,,,,,,,5.2,4.1,1.5,0.1,Setosa
+,,,,,,,5.5,4.2,1.4,0.2,Setosa
+,,,,,,,4.9,3.1,1.5,0.2,Setosa
+,,,,,,,5.0,3.2,1.2,0.2,Setosa
+,,,,,,,5.5,3.5,1.3,0.2,Setosa
+,,,,,,,4.9,3.6,1.4,0.1,Setosa
+,,,,,,,4.4,3.0,1.3,0.2,Setosa
+,,,,,,,5.1,3.4,1.5,0.2,Setosa
+,,,,,,,5.0,3.5,1.3,0.3,Setosa
+,,,,,,,4.5,2.3,1.3,0.3,Setosa
+,,,,,,,4.4,3.2,1.3,0.2,Setosa
+,,,,,,,5.0,3.5,1.6,0.6,Setosa
+,,,,,,,5.1,3.8,1.9,0.4,Setosa
+,,,,,,,4.8,3.0,1.4,0.3,Setosa
+,,,,,,,5.1,3.8,1.6,0.2,Setosa
+,,,,,,,4.6,3.2,1.4,0.2,Setosa
+,,,,,,,5.3,3.7,1.5,0.2,Setosa
+,,,,,,,5.0,3.3,1.4,0.2,Setosa
+,,,,,,,7.0,3.2,4.7,1.4,Versicolor
+,,,,,,,6.4,3.2,4.5,1.5,Versicolor
+,,,,,,,6.9,3.1,4.9,1.5,Versicolor
+,,,,,,,5.5,2.3,4.0,1.3,Versicolor
+,,,,,,,6.5,2.8,4.6,1.5,Versicolor
+,,,,,,,5.7,2.8,4.5,1.3,Versicolor
+,,,,,,,6.3,3.3,4.7,1.6,Versicolor
+,,,,,,,4.9,2.4,3.3,1.0,Versicolor
+,,,,,,,6.6,2.9,4.6,1.3,Versicolor
+,,,,,,,5.2,2.7,3.9,1.4,Versicolor
+,,,,,,,5.0,2.0,3.5,1.0,Versicolor
+,,,,,,,5.9,3.0,4.2,1.5,Versicolor
+,,,,,,,6.0,2.2,4.0,1.0,Versicolor
+,,,,,,,6.1,2.9,4.7,1.4,Versicolor
+,,,,,,,5.6,2.9,3.6,1.3,Versicolor
+,,,,,,,6.7,3.1,4.4,1.4,Versicolor
+,,,,,,,5.6,3.0,4.5,1.5,Versicolor
+,,,,,,,5.8,2.7,4.1,1.0,Versicolor
+,,,,,,,6.2,2.2,4.5,1.5,Versicolor
+,,,,,,,5.6,2.5,3.9,1.1,Versicolor
+,,,,,,,5.9,3.2,4.8,1.8,Versicolor
+,,,,,,,6.1,2.8,4.0,1.3,Versicolor
+,,,,,,,6.3,2.5,4.9,1.5,Versicolor
+,,,,,,,6.1,2.8,4.7,1.2,Versicolor
+,,,,,,,6.4,2.9,4.3,1.3,Versicolor
+,,,,,,,6.6,3.0,4.4,1.4,Versicolor
+,,,,,,,6.8,2.8,4.8,1.4,Versicolor
+,,,,,,,6.7,3.0,5.0,1.7,Versicolor
+,,,,,,,6.0,2.9,4.5,1.5,Versicolor
+,,,,,,,5.7,2.6,3.5,1.0,Versicolor
+,,,,,,,5.5,2.4,3.8,1.1,Versicolor
+,,,,,,,5.5,2.4,3.7,1.0,Versicolor
+,,,,,,,5.8,2.7,3.9,1.2,Versicolor
+,,,,,,,6.0,2.7,5.1,1.6,Versicolor
+,,,,,,,5.4,3.0,4.5,1.5,Versicolor
+,,,,,,,6.0,3.4,4.5,1.6,Versicolor
+,,,,,,,6.7,3.1,4.7,1.5,Versicolor
+,,,,,,,6.3,2.3,4.4,1.3,Versicolor
+,,,,,,,5.6,3.0,4.1,1.3,Versicolor
+,,,,,,,5.5,2.5,4.0,1.3,Versicolor
+,,,,,,,5.5,2.6,4.4,1.2,Versicolor
+,,,,,,,6.1,3.0,4.6,1.4,Versicolor
+,,,,,,,5.8,2.6,4.0,1.2,Versicolor
+,,,,,,,5.0,2.3,3.3,1.0,Versicolor
+,,,,,,,5.6,2.7,4.2,1.3,Versicolor
+,,,,,,,5.7,3.0,4.2,1.2,Versicolor
+,,,,,,,5.7,2.9,4.2,1.3,Versicolor
+,,,,,,,6.2,2.9,4.3,1.3,Versicolor
+,,,,,,,5.1,2.5,3.0,1.1,Versicolor
+,,,,,,,5.7,2.8,4.1,1.3,Versicolor
+,,,,,,,6.3,3.3,6.0,2.5,Virginica
+,,,,,,,5.8,2.7,5.1,1.9,Virginica
+,,,,,,,7.1,3.0,5.9,2.1,Virginica
+,,,,,,,6.3,2.9,5.6,1.8,Virginica
+,,,,,,,6.5,3.0,5.8,2.2,Virginica
+,,,,,,,7.6,3.0,6.6,2.1,Virginica
+,,,,,,,4.9,2.5,4.5,1.7,Virginica
+,,,,,,,7.3,2.9,6.3,1.8,Virginica
+,,,,,,,6.7,2.5,5.8,1.8,Virginica
+,,,,,,,7.2,3.6,6.1,2.5,Virginica
+,,,,,,,6.5,3.2,5.1,2.0,Virginica
+,,,,,,,6.4,2.7,5.3,1.9,Virginica
+,,,,,,,6.8,3.0,5.5,2.1,Virginica
+,,,,,,,5.7,2.5,5.0,2.0,Virginica
+,,,,,,,5.8,2.8,5.1,2.4,Virginica
+,,,,,,,6.4,3.2,5.3,2.3,Virginica
+,,,,,,,6.5,3.0,5.5,1.8,Virginica
+,,,,,,,7.7,3.8,6.7,2.2,Virginica
+,,,,,,,7.7,2.6,6.9,2.3,Virginica
+,,,,,,,6.0,2.2,5.0,1.5,Virginica
+,,,,,,,6.9,3.2,5.7,2.3,Virginica
+,,,,,,,5.6,2.8,4.9,2.0,Virginica
+,,,,,,,7.7,2.8,6.7,2.0,Virginica
+,,,,,,,6.3,2.7,4.9,1.8,Virginica
+,,,,,,,6.7,3.3,5.7,2.1,Virginica
+,,,,,,,7.2,3.2,6.0,1.8,Virginica
+,,,,,,,6.2,2.8,4.8,1.8,Virginica
+,,,,,,,6.1,3.0,4.9,1.8,Virginica
+,,,,,,,6.4,2.8,5.6,2.1,Virginica
+,,,,,,,7.2,3.0,5.8,1.6,Virginica
+,,,,,,,7.4,2.8,6.1,1.9,Virginica
+,,,,,,,7.9,3.8,6.4,2.0,Virginica
+,,,,,,,6.4,2.8,5.6,2.2,Virginica
+,,,,,,,6.3,2.8,5.1,1.5,Virginica
+,,,,,,,6.1,2.6,5.6,1.4,Virginica
+,,,,,,,7.7,3.0,6.1,2.3,Virginica
+,,,,,,,6.3,3.4,5.6,2.4,Virginica
+,,,,,,,6.4,3.1,5.5,1.8,Virginica
+,,,,,,,6.0,3.0,4.8,1.8,Virginica
+,,,,,,,6.9,3.1,5.4,2.1,Virginica
+,,,,,,,6.7,3.1,5.6,2.4,Virginica
+,,,,,,,6.9,3.1,5.1,2.3,Virginica
+,,,,,,,5.8,2.7,5.1,1.9,Virginica
+,,,,,,,6.8,3.2,5.9,2.3,Virginica
+,,,,,,,6.7,3.3,5.7,2.5,Virginica
+,,,,,,,6.7,3.0,5.2,2.3,Virginica
+,,,,,,,6.3,2.5,5.0,1.9,Virginica
+,,,,,,,6.5,3.0,5.2,2.0,Virginica
+,,,,,,,6.2,3.4,5.4,2.3,Virginica
+,,,,,,,5.9,3.0,5.1,1.8,Virginica
+,,,,,," from private companies, PLA Daily reported on Saturday.",,,,,
+,,,,,,Zhang Hao and 12 other science and technology experts received letters of appointment at the founding ceremony of,,,,,
+,,,,,,"the PLA Rocket Force national defense science and technology experts panel, according to a report published by the",,,,,
+,,,,,,PLA Daily on Saturday.,,,,,
+,,,,,,"Honored as “rocket force science and technology experts,” Zhang and his fellow experts from private companies will",,,,,
+,,,,,,"serve as members of the PLA Rocket Force think tank, which will conduct research into fields like overall design of",,,,,
+,,,,,,"the missiles, missile launching and network system technology for five years.",,,,,
+,,,,,,"The experts will enjoy the same treatment as their counterparts from State-owned firms, the report said.",,,,,
+,,,,,,"The PLA Daily said that this marks a new development in deepening military-civilian integration in China, which",,,,,
+,,,,,,could make science and technology innovation better contribute to the enhancement of the force’s combat capabilities.,,,,,
